@@ -1,0 +1,11 @@
+.cell {
+    border: 5px solid #FADADD; ;
+}
+
+.cell:hover:empty {
+    border: 5px solid rgba(226, 79, 165, 0.615);
+}
+
+.not-ready {
+    border: 5px solid #FADADD; ;
+}

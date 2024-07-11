@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fireworks-js": "^2.10.7",
+    "selenium-webdriver": "^4.22.0"
+  }
+}
